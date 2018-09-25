@@ -1,0 +1,21 @@
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\bin\Debug\HassanJasim_Lab_1.2.exe.config
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\bin\Debug\HassanJasim_Lab_1.2.exe
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\bin\Debug\HassanJasim_Lab_1.2.pdb
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\bin\Debug\HassanJasim_Lab_1.2.xml
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1._2.Form1.resources
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1._2.Resources.resources
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1.2.vbproj.GenerateResource.Cache
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1.2.exe
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1.2.xml
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1.2.pdb
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\bin\Debug\HassanJasim_Lab_1.2.exe.config
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\bin\Debug\HassanJasim_Lab_1.2.exe
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\bin\Debug\HassanJasim_Lab_1.2.pdb
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\bin\Debug\HassanJasim_Lab_1.2.xml
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1._2.Form1.resources
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1._2.Resources.resources
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1.2.vbproj.GenerateResource.Cache
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1.2.vbproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1.2.exe
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1.2.xml
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci_VB\Lab #1\HassanJasim_Lab_1.2\HassanJasim_Lab_1.2\obj\Debug\HassanJasim_Lab_1.2.pdb
