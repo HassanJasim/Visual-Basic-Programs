@@ -1,0 +1,6 @@
+Aluminium,6.9
+Brass,9.0
+Copper,11.0
+Nylon,0.37
+Steel,21.0
+Teflon,0.037
