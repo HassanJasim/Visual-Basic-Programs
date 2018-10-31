@@ -1,0 +1,11 @@
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\obj\Debug\HassanJasim_Lab_7.3.vbprojResolveAssemblyReference.cache
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\obj\Debug\HassanJasim_Lab_7._3.Form1.resources
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\obj\Debug\HassanJasim_Lab_7._3.Resources.resources
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\obj\Debug\HassanJasim_Lab_7.3.vbproj.GenerateResource.Cache
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\bin\Debug\HassanJasim_Lab_7.3.exe.config
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\bin\Debug\HassanJasim_Lab_7.3.exe
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\bin\Debug\HassanJasim_Lab_7.3.pdb
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\bin\Debug\HassanJasim_Lab_7.3.xml
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\obj\Debug\HassanJasim_Lab_7.3.exe
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\obj\Debug\HassanJasim_Lab_7.3.xml
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\HassanJasim_Lab_7.3\HassanJasim_Lab_7.3\obj\Debug\HassanJasim_Lab_7.3.pdb
