@@ -1,0 +1,11 @@
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\bin\Debug\Practice_Exam_1.exe.config
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\bin\Debug\Practice_Exam_1.exe
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\bin\Debug\Practice_Exam_1.pdb
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\bin\Debug\Practice_Exam_1.xml
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\obj\Debug\Practice_Exam_1.vbprojResolveAssemblyReference.cache
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\obj\Debug\Practice_Exam_1.Form1.resources
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\obj\Debug\Practice_Exam_1.Resources.resources
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\obj\Debug\Practice_Exam_1.vbproj.GenerateResource.Cache
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\obj\Debug\Practice_Exam_1.exe
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\obj\Debug\Practice_Exam_1.xml
+C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci_VB\Practice Exam\Practice_Exam_1\Practice_Exam_1\obj\Debug\Practice_Exam_1.pdb
